@@ -2,6 +2,10 @@
 
 https://www.codingame.com/profile/caee7020fd7d79d2e70e286ed7509f2c0245304
 
+### 26/02/2021 Update ###
+
+* sudoku_validator
+
 ### 09/02/2021 Update ###
 
 * ascii_art
