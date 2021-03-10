@@ -2,6 +2,11 @@
 
 https://www.codingame.com/profile/caee7020fd7d79d2e70e286ed7509f2c0245304
 
+### 10/03/2021 Update ###
+
+* text_formatting
+* dungeons_and_maps
+
 ### 26/02/2021 Update ###
 
 * sudoku_validator
