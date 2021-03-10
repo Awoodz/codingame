@@ -6,6 +6,7 @@ https://www.codingame.com/profile/caee7020fd7d79d2e70e286ed7509f2c0245304
 
 * text_formatting
 * dungeons_and_maps
+* ghost_legs
 
 ### 26/02/2021 Update ###
 
